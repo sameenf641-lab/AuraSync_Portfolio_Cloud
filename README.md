@@ -65,6 +65,16 @@ aurasync-prank/
    npx serve .
    ```
 
+### Deploy (Free & Instant)
+This is a static site — deploy it anywhere for free:
+
+- **[Netlify Drop](https://app.netlify.com/drop)** — drag & drop the folder, get a live link instantly
+- **[Vercel](https://vercel.com)** — import the repo or drag-drop deploy
+- **[GitHub Pages](https://pages.github.com/)** — enable Pages in repo settings, pointed at `main` / root
+- **[Cloudflare Pages](https://pages.cloudflare.com)** — connect the repo and deploy
+
+Once deployed, just share the URL — it works on any modern mobile or desktop browser.
+
 ---
 
 ## 🎨 Customization
